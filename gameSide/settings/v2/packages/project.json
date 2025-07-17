@@ -1,0 +1,35 @@
+{
+  "__version__": "1.0.6",
+  "physics": {
+    "collisionGroups": [
+      {
+        "index": 1,
+        "name": "GROUND"
+      },
+      {
+        "index": 2,
+        "name": "OBJECT"
+      },
+      {
+        "index": 3,
+        "name": "COIN"
+      },
+      {
+        "index": 4,
+        "name": "HAZARD"
+      },
+      {
+        "index": 5,
+        "name": "JUMPER"
+      }
+    ],
+    "collisionMatrix": {
+      "0": 28,
+      "1": 12,
+      "2": 59,
+      "3": 15,
+      "4": 5,
+      "5": 4
+    }
+  }
+}

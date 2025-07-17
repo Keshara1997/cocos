@@ -1,0 +1,22 @@
+{
+  "__type__": "cc.SpriteAtlas",
+  "content": {
+    "name": "spike",
+    "spriteFrames": [
+      "spike000",
+      "eb4b07a0-e733-4657-86ec-12fcd29d9272@b2bc9",
+      "spike001",
+      "eb4b07a0-e733-4657-86ec-12fcd29d9272@ce3fd",
+      "spike002",
+      "eb4b07a0-e733-4657-86ec-12fcd29d9272@54053",
+      "spike003",
+      "eb4b07a0-e733-4657-86ec-12fcd29d9272@fea78",
+      "spike004",
+      "eb4b07a0-e733-4657-86ec-12fcd29d9272@0c85c",
+      "spike005",
+      "eb4b07a0-e733-4657-86ec-12fcd29d9272@bd31e",
+      "spike006",
+      "eb4b07a0-e733-4657-86ec-12fcd29d9272@6cb0a"
+    ]
+  }
+}
