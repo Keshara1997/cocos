@@ -1,0 +1,90 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "Tile_46",
+    "atlas": "",
+    "rect": {
+      "x": 0,
+      "y": 2,
+      "width": 16,
+      "height": 14
+    },
+    "offset": {
+      "x": 0,
+      "y": -1
+    },
+    "originalSize": {
+      "width": 16,
+      "height": 16
+    },
+    "rotated": false,
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ],
+    "vertices": {
+      "rawPosition": [
+        -8,
+        -7,
+        0,
+        8,
+        -7,
+        0,
+        -8,
+        7,
+        0,
+        8,
+        7,
+        0
+      ],
+      "indexes": [
+        0,
+        1,
+        2,
+        2,
+        1,
+        3
+      ],
+      "uv": [
+        0,
+        14,
+        16,
+        14,
+        0,
+        0,
+        16,
+        0
+      ],
+      "nuv": [
+        0,
+        0,
+        1,
+        0,
+        0,
+        0.875,
+        1,
+        0.875
+      ],
+      "minPos": {
+        "x": -8,
+        "y": -7,
+        "z": 0
+      },
+      "maxPos": {
+        "x": 8,
+        "y": 7,
+        "z": 0
+      }
+    },
+    "texture": "5a78f38b-4578-48e7-b6c9-70911a02faa0@6c48a",
+    "packable": true,
+    "pixelsToUnit": 100,
+    "pivot": {
+      "x": 0.5,
+      "y": 0.5
+    },
+    "meshType": 0
+  }
+}

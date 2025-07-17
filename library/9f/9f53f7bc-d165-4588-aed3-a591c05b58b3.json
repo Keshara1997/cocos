@@ -1,0 +1,22 @@
+{
+  "__type__": "cc.SpriteAtlas",
+  "content": {
+    "name": "jumper",
+    "spriteFrames": [
+      "jumper000",
+      "9f53f7bc-d165-4588-aed3-a591c05b58b3@15d1b",
+      "jumper001",
+      "9f53f7bc-d165-4588-aed3-a591c05b58b3@66511",
+      "jumper002",
+      "9f53f7bc-d165-4588-aed3-a591c05b58b3@db5ac",
+      "jumper003",
+      "9f53f7bc-d165-4588-aed3-a591c05b58b3@66e87",
+      "jumper004",
+      "9f53f7bc-d165-4588-aed3-a591c05b58b3@c9c3c",
+      "jumper005",
+      "9f53f7bc-d165-4588-aed3-a591c05b58b3@19497",
+      "jumper006",
+      "9f53f7bc-d165-4588-aed3-a591c05b58b3@12d86"
+    ]
+  }
+}

@@ -1,0 +1,90 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "Double_Jump",
+    "atlas": "",
+    "rect": {
+      "x": 3,
+      "y": 3,
+      "width": 186,
+      "height": 27
+    },
+    "offset": {
+      "x": 0,
+      "y": -0.5
+    },
+    "originalSize": {
+      "width": 192,
+      "height": 32
+    },
+    "rotated": false,
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ],
+    "vertices": {
+      "rawPosition": [
+        -93,
+        -13.5,
+        0,
+        93,
+        -13.5,
+        0,
+        -93,
+        13.5,
+        0,
+        93,
+        13.5,
+        0
+      ],
+      "indexes": [
+        0,
+        1,
+        2,
+        2,
+        1,
+        3
+      ],
+      "uv": [
+        3,
+        29,
+        189,
+        29,
+        3,
+        2,
+        189,
+        2
+      ],
+      "nuv": [
+        0.015625,
+        0.0625,
+        0.984375,
+        0.0625,
+        0.015625,
+        0.90625,
+        0.984375,
+        0.90625
+      ],
+      "minPos": {
+        "x": -93,
+        "y": -13.5,
+        "z": 0
+      },
+      "maxPos": {
+        "x": 93,
+        "y": 13.5,
+        "z": 0
+      }
+    },
+    "texture": "bc65fdd4-deda-4e20-82a9-19701d9f9c20@6c48a",
+    "packable": true,
+    "pixelsToUnit": 100,
+    "pivot": {
+      "x": 0.5,
+      "y": 0.5
+    },
+    "meshType": 0
+  }
+}

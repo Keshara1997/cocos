@@ -1,0 +1,90 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "Jump",
+    "atlas": "",
+    "rect": {
+      "x": 12,
+      "y": 17,
+      "width": 24,
+      "height": 31
+    },
+    "offset": {
+      "x": 0,
+      "y": -8.5
+    },
+    "originalSize": {
+      "width": 48,
+      "height": 48
+    },
+    "rotated": false,
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ],
+    "vertices": {
+      "rawPosition": [
+        -12,
+        -15.5,
+        0,
+        12,
+        -15.5,
+        0,
+        -12,
+        15.5,
+        0,
+        12,
+        15.5,
+        0
+      ],
+      "indexes": [
+        0,
+        1,
+        2,
+        2,
+        1,
+        3
+      ],
+      "uv": [
+        12,
+        31,
+        36,
+        31,
+        12,
+        0,
+        36,
+        0
+      ],
+      "nuv": [
+        0.25,
+        0,
+        0.75,
+        0,
+        0.25,
+        0.6458333333333334,
+        0.75,
+        0.6458333333333334
+      ],
+      "minPos": {
+        "x": -12,
+        "y": -15.5,
+        "z": 0
+      },
+      "maxPos": {
+        "x": 12,
+        "y": 15.5,
+        "z": 0
+      }
+    },
+    "texture": "54a6951b-b5dc-4bef-95af-f4952865c604@6c48a",
+    "packable": true,
+    "pixelsToUnit": 100,
+    "pivot": {
+      "x": 0.5,
+      "y": 0.5
+    },
+    "meshType": 0
+  }
+}
