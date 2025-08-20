@@ -25,7 +25,7 @@ export class DatabaseConfig {
         return new DataSource({
             ...config,
             entities: [UserInfo],
-            synchronize: process.env.NODE_ENV !== 'production',
+            synchronize: false, // Use migrations instead
             logging: process.env.NODE_ENV === 'development',
             migrations: ['src/migrations/*.ts'],
             subscribers: ['src/subscribers/*.ts'],
